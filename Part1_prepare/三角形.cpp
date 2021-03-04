@@ -7,7 +7,8 @@
  * 3 ≤ n ≤ 100
  * 1 ≤ ai ≤ 10^6 
 */
-#include <bits/stdc++.h>
+#include<iostream>
+#include<algorithm>
 #define MAXNUM 100
 using namespace std;
 
